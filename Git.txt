@@ -1,0 +1,11 @@
+cd - takes you to a directory
+cd ~ takes you up a directory
+git clone for a repository
+git touch to create a new file
+git add to load or load changes to and exisitng file
+git status to see status of a repository
+git commit -m "" to make a commit
+git push to push changes to the repository
+git commit -a -m "" commits multiple things at once
+but you gotta add new files you make 
+:D
